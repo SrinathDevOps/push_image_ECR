@@ -1,0 +1,10 @@
+1)Log in to the aws account
+2)create an repository in the ECR
+3)launch an ec2
+and install docker on top of that
+4)create a IAM rule
+attach the permissiom polilc to it
+and assign the IAM to the ec2 instance
+5)install all and login to the aws cli and verify the aws version and  the docker login
+6)create a docker file or use if u have any docker file in the github
+7)build it and push it, then you will find the image in the repository
